@@ -1,0 +1,112 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+<!-- {% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %} -->
+
+<div>
+  <!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"> -->
+    <!-- {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %} -->
+
+    <!-- <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2> -->
+
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+
+    {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+    {% endif %}
+
+
+    <!-- <div class="section color-2" id="pub-grid">
+      <div class="section-container"> -->
+
+    <div class="row">
+      <div class="col-md-12">
+          <div class="pitems">
+              <div class="item mix jpaper mix_all" data-year="2017" style="display: block;  opacity: 1;">
+                  <div class="pubmain">
+                      <div class="pubassets">
+
+                        {% if post.slides %}
+                          <a href="{{post.slides}}" class="tooltips" title="Slides" target="_blank" data-original-title="Slides">
+                              <i class="icon fa fa-slideshare"></i>
+                          </a>
+                        {% endif %}
+
+                          {% if post.paperurl %}
+                          <a href="{{post.paperurl}}" class="tooltips" title="Paper" target="_blank" data-original-title="Paper">
+                              <i class="icon fa fa-file-text-o"></i>
+                          </a>
+                          {% endif %}
+
+                          {% if post.code %}
+                          <a href="{{post.code}}" class="tooltips" title="Code" target="_blank" data-original-title="Code">
+                              <i class="icon fa fa-link"></i>
+                          </a>
+                          {% endif %}
+
+                          <a href="#" class="pubcollapse">
+                              <i class="icon fa fa-plus-square-o"></i>
+                          </a>
+
+                      </div>
+
+                      <h4 class="pubtitle">{{ post.title }}</h4>
+
+                      <div class="pubauthor">{{post.authors}}</div>
+
+                      <div class="pubcite">
+                          <span class="label
+                              label-success">Journal Papers</span>{{ post.venue }}</div>
+                      </div>
+                  {% if post.abstract %}
+                  <div class="pubdetails">
+                      <h4>Abstract</h4>
+                      <p>{{ post.abstract }}</p>
+                  </div>
+                  {% endif %}
+                </div>
+            </div>
+        </div>
+  </div>
+<!-- </div>
+</div> -->
+    <!-- {% if post.citation and post.paperurl %}
+      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% elsif post.citation %}
+      <p>Recommended citation: {{ post.citation }} </p>
+    {% elsif post.paperurl %}
+      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% endif %} -->
+
+<!--  </article> -->
+</div>

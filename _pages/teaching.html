@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="section-teach color-2" id="teach-grid">
+  <div class="section-container">
+
+{% for post in site.teaching reversed %}
+  {% include archive-teaching.html %}
+{% endfor %}
+</div>
+</div>
