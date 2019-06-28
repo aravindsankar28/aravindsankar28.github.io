@@ -20,5 +20,3 @@ author_profile: true
 
 </div>
 </div>
-<!-- {% bibliography_count -f references %} -->
-<!-- {% bibliography %} -->
