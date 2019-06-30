@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="section-research color-2" id="teach-grid">
+  <div class="section-container">
+
+{% for post in site.research reversed %}
+  {% include archive-research.html %}
+{% endfor %}
+</div>
+</div>

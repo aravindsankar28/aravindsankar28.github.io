@@ -28,13 +28,13 @@
 	src: local('Lato Italic'), local('Lato-Italic'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/oUan5VrEkpzIazlUe5ieaA.woff) format('woff');
 }
 
-/* body {
+body {
 	font-size: 16px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	background: #4D4D4D;
 }
 
+/*
 a,a:hover,a:focus {
 	text-decoration: none;
 	outline: 0;
@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 /* mobile menu
  **************************************************/
-/* .mobilemenu {
+.mobilemenu {
 	position: fixed;
 	top: 0px;
 	left: 0;
@@ -65,11 +65,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 .mobilemenu:hover,.mobilemenu:focus {
 	color: #fff;
-} */
+}
 
 /* layout
  **************************************************/
-/* #main-nav {
+#main-nav {
 	text-align: left;
 	vertical-align: top;
 	-webkit-user-select: none;
@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	top: 0;
 	bottom: 50px;
 	overflow: hidden;
-} */
+}
 
 
 /* #main {
@@ -452,7 +452,7 @@ ul#navigation li .icon {
 
 /* ul-card
  **************************************************/
-/* ul.ul-card {
+ul.ul-card {
 	padding: 0;
 	margin: 0;
 	list-style: none;
@@ -539,7 +539,7 @@ ul.ul-dates div.dates span,ul.ul-dates-gray div.dates span {
 
 /*ul.ul-dates div.dates span:last-child {
 	background-color: #03bb7a;
-}*/
+}
 
 ul.ul-dates-gray div.dates span:last-child {
 	background-color: #979797;

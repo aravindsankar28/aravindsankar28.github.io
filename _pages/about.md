@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a third year Ph.D. student in [Computer Science](http://www.cs.illinois.edu) at the University of Illinois at Urbana-Champaign.
-My research interests lie at the intersection of user behavior modeling in online social media and large-scale graph mining.
+My research interests lie at the intersection of user behavior modeling in social media and large-scale graph mining.
 Specifically, my research involves devising neural network architectures for
 recommender systems, social influence modeling and graph representation learning.
 I am advised by Prof. [Hari Sundaram](http://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/).

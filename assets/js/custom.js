@@ -230,17 +230,17 @@ $(document).ready(function(){
 
 
 });
-//
-//
-// $(window).load(function(){
-//
-// 	/*++++++++++++++++++++++++++++++++++++
-// 		gallery masonry layout
-// 	++++++++++++++++++++++++++++++++++++++*/
-// 	var $container = $('#grid');
-// 	// initialize
-// 	$container.masonry({
-// 	  itemSelector: 'li'
-// 	});
-//
-// });
+
+
+$(window).load(function(){
+
+	/*++++++++++++++++++++++++++++++++++++
+		gallery masonry layout
+	++++++++++++++++++++++++++++++++++++++*/
+	var $container = $('#grid');
+	// initialize
+	$container.masonry({
+	  itemSelector: 'li'
+	});
+
+});
