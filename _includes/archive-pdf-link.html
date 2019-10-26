@@ -85,8 +85,22 @@
                       <div class="pubauthor">{{post.authors}}</div>
 
                       <div class="pubcite">
+                          {% if post.type == 'journal' %}
                           <span class="label
-                              label-success">Journal Papers</span>{{ post.venue }}</div>
+                              label-warning">Journal Paper</span>{{ post.venue }}
+                          {% endif %}
+
+                          {% if post.type == 'conference' %}
+                          <span class="label
+                              label-success">Conference Paper</span>{{ post.venue }}
+                          {% endif %}
+
+                          {% if post.type == 'workshop' %}
+                          <span class="label
+                              label-danger">Workshop Paper</span>{{ post.venue }}
+                          {% endif %}
+                      </div>
+
                       </div>
                   {% if post.abstract %}
                   <div class="pubdetails">

@@ -2,6 +2,7 @@
 title: "An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering"
 collection: publications
 permalink: /publication/2018-01-01-An-Adversarial-Approach-to-Improve-Long-Tail-Performance-in-Neural-Collaborative-Filtering
+type: conference
 date: 2018-01-01
 venue: 'Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM 2018, Torino, Italy, October 22-26, 2018'
 paperurl: '../files/Long-Tail-GAN-CIKM2018.pdf'

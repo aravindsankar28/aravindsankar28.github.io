@@ -2,6 +2,7 @@
 title: "Unsupervised Concept Categorization and Extraction from Scientific Document Titles"
 collection: publications
 permalink: /publication/2017-01-01-Unsupervised-Concept-Categorization-and-Extraction-from-Scientific-Document-Titles
+type: conference
 date: 2017-01-01
 venue: 'Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, CIKM 2017, Singapore, November 06 - 10, 2017'
 paperurl: '../files/Concept-Extraction-CIKM2017.pdf'

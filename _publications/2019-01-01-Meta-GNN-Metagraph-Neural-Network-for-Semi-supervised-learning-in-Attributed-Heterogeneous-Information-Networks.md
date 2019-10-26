@@ -2,6 +2,7 @@
 title: "Meta-GNN: Metagraph Neural Network for Semi-supervised learning in Attributed Heterogeneous Information Networks"
 collection: publications
 permalink: /publication/2019-01-01-Meta-GNN-Metagraph-Neural-Network-for-Semi-supervised-learning-in-Attributed-Heterogeneous-Information-Networks
+type: conference
 date: 2019-01-01
 venue: 'IEEE/ACM 2019 International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2019, Vancouver, Canada, August 27-30, 2019'
 paperurl: '../files/Meta-GNN-ASONAM2019.pdf'

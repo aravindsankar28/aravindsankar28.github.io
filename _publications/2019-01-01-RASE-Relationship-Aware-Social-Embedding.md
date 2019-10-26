@@ -2,6 +2,7 @@
 title: "RASE: Relationship Aware Social Embedding"
 collection: publications
 permalink: /publication/2019-01-01-RASE-Relationship-Aware-Social-Embedding
+type: conference
 date: 2019-01-01
 venue: 'International Joint Conference on Neural Networks, IJCNN 2019 Budapest, Hungary, July 14-19, 2019'
 paperurl: '../files/RASE-IJCNN2019.pdf'

@@ -2,6 +2,7 @@
 title: "Improved MHP Analysis"
 collection: publications
 permalink: /publication/2016-01-01-Improved-MHP-Analysis
+type: conference
 date: 2016-01-01
 venue: 'Proceedings of the 25th International Conference on Compiler Construction, CC 2016, Barcelona, Spain, March 12-18, 2016'
 paperurl: '../files/MHP-Analysis-CC2016.pdf'

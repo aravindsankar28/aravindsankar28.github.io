@@ -2,6 +2,7 @@
 title: "Predicting novel metabolic pathways through subgraph mining"
 collection: publications
 permalink: /publication/2017-01-01-Predicting-novel-metabolic-pathways-through-subgraph-mining
+type: journal
 date: 2017-01-01
 venue: 'Bioinformatics'
 paperurl: '../files/ReactionMiner-Bioinformatics2017.pdf'

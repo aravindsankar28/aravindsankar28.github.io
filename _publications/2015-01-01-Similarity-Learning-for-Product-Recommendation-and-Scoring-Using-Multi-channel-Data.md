@@ -1,6 +1,7 @@
 ---
 title: "Similarity Learning for Product Recommendation and Scoring Using Multi-channel Data"
 collection: publications
+type: workshop
 permalink: /publication/2015-01-01-Similarity-Learning-for-Product-Recommendation-and-Scoring-Using-Multi-channel-Data
 date: 2015-01-01
 venue: 'IEEE International Conference on Data Mining Workshop, ICDMW 2015, Atlantic City, NJ, USA, November 14-17, 2015'

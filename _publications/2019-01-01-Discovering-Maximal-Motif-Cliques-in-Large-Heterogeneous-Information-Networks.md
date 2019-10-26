@@ -2,6 +2,7 @@
 title: "Discovering Maximal Motif Cliques in Large Heterogeneous Information Networks"
 collection: publications
 permalink: /publication/2019-01-01-Discovering-Maximal-Motif-Cliques-in-Large-Heterogeneous-Information-Networks
+type: conference
 date: 2019-01-01
 venue: '35th IEEE International Conference on Data Engineering, ICDE 2019, Macao, China, April 8-11, 2019'
 paperurl: '../files/Motif-Clique-ICDE2019.pdf'

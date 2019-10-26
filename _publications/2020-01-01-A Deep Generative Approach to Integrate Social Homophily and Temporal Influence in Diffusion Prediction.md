@@ -2,6 +2,7 @@
 title: "A Deep Generative Approach to Integrate Social Homophily and Temporal Influence in Diffusion Prediction"
 collection: publications
 permalink: /publication/2020-01-01-A-Deep-Generative-Approach-to-Integrate-Social-Homophily-and-Temporal-Influence-in-Diffusion-Prediction
+type: conference
 date: 2020-01-01
 venue: 'International Conference on Web Search and Data Mining, WSDM 2020, Houston, TX, February 3-7, 2020'
 authors: '<strong>Aravind Sankar</strong>, Xinyang Zhang, Adit Krishnan, Jiawei Han'

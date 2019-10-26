@@ -2,6 +2,7 @@
 title: "Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks"
 collection: publications
 permalink: /publication/2020-01-01-Deep-Neural-Representation-Learning-on-Dynamic-Graphs-via-Self-Attention-Networks
+type: conference
 date: 2020-01-01
 venue: 'International Conference on Web Search and Data Mining, WSDM 2020, Houston, TX, February 3-7, 2020'
 paperurl: 'https://arxiv.org/pdf/1812.09430.pdf'
