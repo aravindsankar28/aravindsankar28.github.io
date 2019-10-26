@@ -11,8 +11,8 @@ title                    : "Aravind Sankar"
 title_separator          : "-"
 name                     : &name "Aravind Sankar"
 description              : &description "About Me"
-url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# url                      : https://aravindsankar28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aravindsankar28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aravindsankar28/aravindsankar28.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -182,9 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #research:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

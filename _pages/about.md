@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in [Computer Science](http://www.cs.illinois.edu) at the University of Illinois at Urbana-Champaign.
+I am a fourth year Ph.D. student in [Computer Science](http://www.cs.illinois.edu) at the University of Illinois at Urbana-Champaign.
 My research interests lie at the intersection of user behavior modeling in social media and large-scale graph mining.
 Specifically, my research involves devising neural network architectures for
 recommender systems, social influence modeling and graph representation learning.
+
 I am advised by Prof. [Hari Sundaram](http://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/).
-<!-- I have also worked with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) and [Prof. Kevin Chang](http://www.forwarddatalab.org/kevinccchang). -->
-I have worked as a research intern at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) (Summers 2019, 2018), and [Adobe Research](https://research.adobe.com/) (Summer 2014).
+I have also collaborated with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) on extracting representative concepts from scientific literature.
+<!-- and [Prof. Kevin Chang](http://www.forwarddatalab.org/kevinccchang). -->
+I have worked as a research intern in the <i>Recommendations</i> and <i>Risk Modeling</i> teams at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) (Summers 2019, 2018), and [Adobe Research](https://research.adobe.com/) (Summer 2014).
 
 
 I received my Bachelors and Masters degree in Computer Science from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) in 2016.
-I was working with Prof. <a href="http://www.cse.iitm.ac.in/~sayan" target="_blank">Sayan Ranu</a> and Prof. <a href="https://home.iitm.ac.in/kraman/lab/karthik/" target="_blank"> Karthik Raman</a> on developing a graph mining framework for automated chemical reaction and pathway prediction. Our work has been featured in the [Hindu newspaper](https://www.thehindubusinessline.com/news/science/iit-researchers-develop-tool-to-synthesise-new-molecules/article9896254.ece).
+I worked with Prof. <a href="http://www.cse.iitm.ac.in/~sayan" target="_blank">Sayan Ranu</a> and Prof. <a href="https://home.iitm.ac.in/kraman/lab/karthik/" target="_blank"> Karthik Raman</a> on developing a scalable graph mining algorithm for automated chemical reaction and pathway prediction. Our work has been featured in the [Hindu newspaper](https://www.thehindubusinessline.com/news/science/iit-researchers-develop-tool-to-synthesise-new-molecules/article9896254.ece).
 
 
 
