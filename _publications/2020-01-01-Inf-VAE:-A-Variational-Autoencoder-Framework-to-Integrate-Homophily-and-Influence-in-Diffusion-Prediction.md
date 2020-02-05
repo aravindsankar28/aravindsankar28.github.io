@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-Inf-VAE:-A-Variational-Autoencoder-Framework-
 type: conference
 date: 2020-01-01
 venue: 'International Conference on Web Search and Data Mining, WSDM 2020, Houston, TX, February 3-7, 2020'
+paperurl: '../files/Inf-VAE-WSDM2020.pdf'
 authors: '<strong>Aravind Sankar</strong>, Xinyang Zhang, Adit Krishnan, Jiawei Han'
 abstract: 'Recent years have witnessed tremendous interest in understanding and predicting information spread on social media platforms such as Twitter, Facebook, etc. Existing diffusion prediction methods primarily exploit the sequential order of influenced users by projecting diffusion cascades onto their local social neighborhoods. However, this fails to capture global social structures that do not explicitly manifest in any of the cascades, resulting in poor performance for inactive users with limited historical activities.
 
