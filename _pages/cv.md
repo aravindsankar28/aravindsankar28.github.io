@@ -61,4 +61,7 @@ redirect_from:
 
 ### Service and leadership
 
-* Program Committee Member, 8th World Conference on Information Systems and Technologies - Workshop, 2020.
+* Program Committee Member, Network Modeling, Learning and Analysis (NMLA), WorldCIST2020 Workshop, 2020.
+* Program Committee Member, International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2020.
+* Invited Reviewer, Neurocomputing Journal.
+* Subreviewer, The Web Conference, WWW 2020.
