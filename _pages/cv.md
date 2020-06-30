@@ -38,7 +38,7 @@ redirect_from:
 
 * <strong> Programming Languages</strong>: Python, Java, C/C++, HTML and CSS
 * <strong> Statistical Analysis and Machine Learning</strong>: PyTorch, TensorFlow, Keras, Matlab and Weka
-* <strong> Miscellaneous</strong>: LaTex, Django and MySQL
+* <strong> Miscellaneous</strong>: LaTex, Django and SQL
 
 
 ### Publications
