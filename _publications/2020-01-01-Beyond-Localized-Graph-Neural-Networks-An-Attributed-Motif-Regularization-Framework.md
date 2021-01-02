@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-01-01-Beyond-Localized-Graph-Neural-Networks-An-Attributed-Motif-Regularization-Framework
 type: conference
 date: 2020-11-01
-venue: '2020 IEEE International Conference on Data Mining (ICDM)'
+venue: '2020 IEEE International Conference on Data Mining (ICDM), ICDM 2020, November 17-20, 2020'
 paperurl: '../files/InfoMotif-ICDM2020.pdf'
 authors: '<strong>Aravind Sankar</strong>, Junting Wang, Adit Krishnan, Hari Sundaram'
 url: 'https://arxiv.org/pdf/2009.05197.pdf'
