@@ -38,7 +38,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-new" itemprop="description"> {% if post.authors %} {{ post.authors }}, {% endif %} <i>{{ post.venue }}</i> {% if post.paperurl %} <a href="{{ post.paperurl }}">PDF</a>{% endif %} </p> {% endif %}
+    {% if post.venue%}<p class="archive__item-new" itemprop="description"> {% if post.authors %} {{ post.authors }}, {% endif %} <i>{{ post.venue }}</i> {% if post.paperurl %} {% if post.semester %} ({{ post.semester }}), {% endif %} <a href="{{ post.paperurl }}">PDF</a>{% endif %} </p> {% endif %}
     </li>
  </article>
 </div>

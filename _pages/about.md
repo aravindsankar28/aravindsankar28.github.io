@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in [Computer Science](http://www.cs.illinois.edu) at the University of Illinois at Urbana-Champaign.
-My research interests lie at the intersection of user behavior modeling in social media and large-scale graph mining.
-Specifically, my research involves devising neural network architectures for
-recommender systems, social influence modeling and graph representation learning.
+I am a final year Ph.D. student in [Computer Science](http://www.cs.illinois.edu) at the University of Illinois at Urbana-Champaign.
+My research work spans data mining, applied machine learning, and computational social science domains, with a focus on <i>recommender systems</i> and <i>graph mining</i> applications. During my PhD, I worked on robust user behavior modeling in large-scale social networking and online interaction platforms. My research work includes designing robust graph neural networks and neural collaborative filtering models for graph representation learning, personalized recommendation, and social interaction modeling applications.
+
 
 I am advised by Prof. [Hari Sundaram](http://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/).
-I have also collaborated with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) on extracting representative concepts from scientific literature.
+I have also collaborated with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) on knowledge discovery from large-scale scientific literature.
 <!-- and [Prof. Kevin Chang](http://www.forwarddatalab.org/kevinccchang). -->
-I have worked as a research intern in the <i>Recommendations</i> and <i>Risk Modeling</i> teams at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) (Summers 2019, 2018), and [Adobe Research](https://research.adobe.com/) (Summer 2014).
+I have worked as a research intern in the <i>Computational Social Science</i> team at [Snap Research](https://research.snap.com/) (Summer 2020), <i>Recommendations</i> and <i>Risk Modeling</i> teams at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) (Summers 2019, 2018), and [Adobe Research](https://research.adobe.com/) (Summer 2014).
 
 
 I received my Bachelors and Masters degree in Computer Science from [Indian Institute of Technology, Madras](https://www.iitm.ac.in/) in 2016.
@@ -24,7 +23,7 @@ I worked with Prof. <a href="http://www.cse.iitm.ac.in/~sayan" target="_blank">S
 
 
 
-I grew up almost entirely in Chennai except for the first few years of my childhood that I spent in the US. I&#39;m a big sports buff, can spend hours watching any sport, be it Cricket, Tennis (a huge Federer fan!), Basketball, Football, F1 and more, while I play Tennis and TT. I also play the keyboard in the Carnatic genre and have given a couple of concerts in the past. This has given me a deep interest in Carnatic music that I hope to pursue more seriously in the future. I like reading books, some of my favorite authors being Dan Brown, John Grisham, Michael Connelly to name a few. I enjoy the adrenaline rush from hiking and outdoor sports.
+I grew up almost entirely in Chennai except for the first few years of my childhood that I spent in the US. I&#39;m a big sports buff, can spend hours watching any sport, be it Cricket, Tennis (a huge Federer fan!), Basketball, Football, F1 and more, while I play Tennis and Table Tennis. I also play the keyboard in the Carnatic genre and have given a couple of concerts in the past. This has given me a deep interest in Carnatic music that I hope to pursue more seriously in the future. I like reading books, some of my favorite authors being Dan Brown, John Grisham, Michael Connelly to name a few. I enjoy the adrenaline rush from hiking, biking, and outdoor sports.
 
 <!-- Create content & metadata
 ------

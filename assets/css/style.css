@@ -144,6 +144,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 /* sidebar
  **************************************************/
+
 /* #nav-container {
 	position: relative;
 	padding-bottom: 75px;
@@ -252,16 +253,12 @@ ul#navigation li .icon {
 	font-size: 27px;
 } */
 
-/* .social {
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 250px;
-	height: 50px;
-	background: #202020;
-	padding-bottom:20px;
+
+ .social {
+font-size: 16px;
 }
 
+/*
 .social-icons {
 	position: relative;
 	width: 100%;
@@ -276,23 +273,21 @@ ul#navigation li .icon {
 	margin: 0;
 	list-style: none;
 }
+*/
 
 .social-icons li {
-	height: 40px;
-	float: left;
-	width: 20%;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	text-align: center;
+	font-size: 14px;
 }
 
-.social-icons a {
+/* .social-icons a {
 	color: #ccc;
-}
+} */
 
+/*
 .social-icons a:hover,.social-icons a:focus {
 	color: #fff;
 }
+*/
 
 .social-icons i {
 	font-size: 16px;

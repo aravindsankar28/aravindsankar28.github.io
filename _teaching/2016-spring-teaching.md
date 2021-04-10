@@ -9,4 +9,3 @@ semester: Spring 2016
 location: "Chennai, India"
 ---
 Designed course assignments and conducted discussion sessions.
-<

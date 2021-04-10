@@ -3,7 +3,8 @@ title: "Graph Neural Networks for Friend Ranking in Large-scale Social Platforms
 collection: publications
 permalink: /publication/2021-01-01-Graph-Neural-Networks-for-Friend-Ranking-in-Large-scale-Social-Platforms
 date: 2021-01-01
-venue: 'Proceedings of The Web Conference 2021'
+type: conference
+venue: 'Proceedings of The Web Conference 2021, WWW 2021, Ljubljana, Slovenia, April 2021'
 paperurl: '../files/GraFRank-WWW2021.pdf'
 authors: '<strong>Aravind Sankar</strong>, Yozen Liu, Jun Yu, Neil Shah'
 url: 'https://doi.org/10.1145/3442381.3450120'
