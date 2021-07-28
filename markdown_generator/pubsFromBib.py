@@ -34,6 +34,7 @@ parser.add_argument(
         '--bibfile',
         type=str,
         help='The bib file to convert.',
+        required=True
         )
 parser.add_argument('--journal', action='store_true', help='By default assume conference')
 
