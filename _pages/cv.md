@@ -10,12 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Madras, 2016
+* Ph.D in Computer Science, University of Illinois, Urbana-Champaign, 2016-2021.
 * M.Tech. in Computer Science and Engineering, Indian Institute of Technology Madras, 2016
-* Ph.D in Computer Science, University of Illinois, Urbana-Champaign, 2021 (expected)
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Madras, 2016
+
 
 ### Work experience
+* Present: Research Scientist, Core Data Science
+  * Meta Research, Menlo Park CA.
+  * Graph Representation Learning for user understanding and modeling.
+
 * Summer 2020: Research Intern, Computational Social Science Team.
   * Snap Research, Santa Monica, CA.
   * Graph Neural Networks for friend recommendations in large-scale social platforms.

@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in [Computer Science](http://www.cs.illinois.edu) at the University of Illinois at Urbana-Champaign.
-My research work spans data mining, applied machine learning, and computational social science domains, with a focus on <i>recommender systems</i> and <i>graph mining</i> applications. During my PhD, I worked on robust user behavior modeling in large-scale social networking and online interaction platforms. My research work includes designing robust graph neural networks and neural collaborative filtering models for graph representation learning, personalized recommendation, and social interaction modeling applications.
+I am Research Scientist in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Meta Research](https://research.facebook.com/). My research work spans data mining, applied machine learning, and computational social science domains, with a focus on <i>recommender systems</i> and <i>graph mining</i>.
+
+Prior to joining Meta, I graduated with a Ph.D. in [Computer Science](http://www.cs.illinois.edu) from the [University of Illinois at Urbana-Champaign](http://www.illinois.edu). During my PhD, I worked on robust user behavior modeling in large-scale social networking and online interaction platforms. My PhD thesis research includes designing robust graph neural networks and neural collaborative filtering models for graph representation learning, personalized recommendation, and social interaction modeling applications.
 
 
-I am advised by Prof. [Hari Sundaram](http://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/).
-I have also collaborated with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/) on knowledge discovery from large-scale scientific literature.
+I was fortunate to have been advised by Prof. [Hari Sundaram](http://sundaram.cs.illinois.edu/) in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io/), and have actively collaborated with [Prof. Jiawei Han](http://hanj.cs.illinois.edu/).
 <!-- and [Prof. Kevin Chang](http://www.forwarddatalab.org/kevinccchang). -->
 I have worked as a research intern in the <i>Computational Social Science</i> team at [Snap Research](https://research.snap.com/) (Summer 2020), <i>Recommendations</i> and <i>Risk Modeling</i> teams at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) (Summers 2019, 2018), and [Adobe Research](https://research.adobe.com/) (Summer 2014).
 
