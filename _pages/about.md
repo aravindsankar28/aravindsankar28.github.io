@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Research Scientist in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Meta Research](https://research.facebook.com/). My research work spans data mining, applied machine learning, and computational social science domains, with a focus on <i>recommender systems</i> and <i>graph mining</i>.
+I am a Research Scientist in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Meta Research](https://research.facebook.com/). My research work spans data mining, applied machine learning, and computational social science domains, with a focus on <i>recommender systems</i> and <i>graph mining</i>.
 
 Prior to joining Meta, I graduated with a Ph.D. in [Computer Science](http://www.cs.illinois.edu) from the [University of Illinois at Urbana-Champaign](http://www.illinois.edu). During my PhD, I worked on robust user behavior modeling in large-scale social networking and online interaction platforms. My PhD thesis research includes designing robust graph neural networks and neural collaborative filtering models for graph representation learning, personalized recommendation, and social interaction modeling applications.
 
